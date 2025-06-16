@@ -1,0 +1,2 @@
+# AI-Powered-Data-Quality-Dashboard-with-Streamlit-and-Ngrok
+This project provides a complete pipeline for analyzing the quality of a sales dataset using Python. It includes both a command-line and an interactive web-based dashboard powered by Streamlit and deployed via Ngrok, making it accessible from anywhere. The dashboard evaluates missing data, validates formats (like emails and phone numbers).
